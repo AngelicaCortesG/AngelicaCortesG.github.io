@@ -1,0 +1,22 @@
+body {
+    font-family: 'Koulen', cursive;
+}
+nav {
+    background-color: orangered;
+}
+h1 {
+    font-family: 'Koulen', cursive;
+    font-size: 76px;
+}
+
+section h5{
+    font-size: 81px;
+}
+section p{
+    margin: 0px;
+    font-size: 1px;
+}
+section img {
+    filter: grayscale(1);
+}
+
